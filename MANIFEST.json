@@ -1,0 +1,1174 @@
+[
+  {
+    "path": ".gitignore",
+    "sha256": "3b6e00c059af3c1aaaed8295757c0b64d6c79c940522edf14f996332a54773bb"
+  },
+  {
+    "path": "README.md",
+    "sha256": "9b1349af159897e34329c127c389687130544d74b7554bc38457c10c2ac65b79"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "d523f6ce9fb16cf49388da8ef696195965197fb361e413fd7f4650744e627c84"
+  },
+  {
+    "path": "ai/EFIR.bat",
+    "sha256": "a6c28c5981beceadbb9afccdc05a3f6081f5e03bc9311813c0dac524605da30e"
+  },
+  {
+    "path": "ai/PLAN_VOLNY.md",
+    "sha256": "2ca6be0692b49de3d8b0bccbc23198423624d042a23c1e85776090ac5ec0b197"
+  },
+  {
+    "path": "ai/README.md",
+    "sha256": "f12fc78f0ba51b25b0317d029fb81967bda8aacd658a236c0bd70c7950d1aaae"
+  },
+  {
+    "path": "ai/ROM_SETUP.md",
+    "sha256": "d9a1a4390330dc8181b45e0b9c0401533e9fa4846b6402c806377c9ae8938b50"
+  },
+  {
+    "path": "ai/build/ETALON_ZAMEROV.json",
+    "sha256": "891a0c49f9b338689a1a3a993c703aacb390a136b411ed5517da2f6543d901da"
+  },
+  {
+    "path": "ai/build/net.json",
+    "sha256": "a8cd2b1dda35ce06bdf0a7b1a07acdadb72371d4535b3a4d8d24f4bfefe43394"
+  },
+  {
+    "path": "ai/build/net_big.json",
+    "sha256": "98627e770e41ff7bfe0c95f4742d368241614bc3b70e33a65f0f5bf913812dc1"
+  },
+  {
+    "path": "ai/build/net_duel.json",
+    "sha256": "4c943ec16d3d6de15067dcd639294c3fbd0b141973d41c0ee9694357b3739290"
+  },
+  {
+    "path": "ai/build/net_duel_last.json",
+    "sha256": "1ec34deec2ce35a0940a31479d8a0f26ecfb8c1948c42694063d391cd41ed1d9"
+  },
+  {
+    "path": "ai/build/net_sloi.json",
+    "sha256": "271529b6b4fd09606df2d27378168644641e2860675f110444bfdedfe9980786"
+  },
+  {
+    "path": "ai/build/_ox_boi_do_posle.py",
+    "sha256": "15d1c74979053313714a315988de78a7bc4b88a12df4c7feb21fbf555764a8c7"
+  },
+  {
+    "path": "ai/build/_ox_debug_zerkala.py",
+    "sha256": "79317c08ccc63f5fea9d699e5b74466ae853195456dc34b2a0a18d2a3891833d"
+  },
+  {
+    "path": "ai/build/_ox_diag_priznakov.py",
+    "sha256": "4a3e7723f801f67fdaec06feea77f6d7e5cccf9d3a406964c302f6e20f4ad1b8"
+  },
+  {
+    "path": "ai/build/_ox_kto_ne_zerkalit.py",
+    "sha256": "db65bb2d90630776a2ccb07fda63cc6bb18fe043b1591ce97f4f61b63a6deaef"
+  },
+  {
+    "path": "ai/build/_ox_kto_v_cikle.py",
+    "sha256": "c07d3278c70048ecb2b9b7f53384b1d99930a2720ad61e6f2b09935d1caecab6"
+  },
+  {
+    "path": "ai/build/_ox_kto_v_cikle2.py",
+    "sha256": "06ba75ad765d56ed4eca40e074e91aa5c909ab3862e219a269b37786e4dc8288"
+  },
+  {
+    "path": "ai/build/_ox_kto_zovet_ce52.py",
+    "sha256": "99607c12f651b767f8d9a13741f7501ff355257154a8f7ecabb164b8037eda41"
+  },
+  {
+    "path": "ai/build/_ox_log_resheniy.py",
+    "sha256": "d3a88def979f036b9941eb8cf5fdb3bd425fa4b348eb7c41a020bc110ad5ce22"
+  },
+  {
+    "path": "ai/build/_ox_odin_sluchay.py",
+    "sha256": "922472cd198918aafc70960dcdc5590f83c828c5091b0e73e195a4d411bcba44"
+  },
+  {
+    "path": "ai/build/_ox_povedenie_do_posle.py",
+    "sha256": "d2f2fc2b0c5baf535a8a2bddea9feeb49bbaa09df27fd502b18bfb2dfe8362d0"
+  },
+  {
+    "path": "ai/build/_ox_povedenie_do_posle2.py",
+    "sha256": "1fb2b98649e479b3a70323af574fde70a3bf5f247136860435b875814c104eef"
+  },
+  {
+    "path": "ai/build/_ox_probe_boi.py",
+    "sha256": "7ca608933057988399770a108d8958a0114042a8c6eac03b909a5708ee3c6bf9"
+  },
+  {
+    "path": "ai/build/_ox_probe_load.py",
+    "sha256": "c8a5b37e84c8b8f2bfed97ed4c3f24a8dcdb8eac3ebc682ab90e42a87fab1e10"
+  },
+  {
+    "path": "ai/build/_ox_proverka_hooka.py",
+    "sha256": "c4a7fa6e6933165c1cc55f4ad2f4a81c87a3c85ddaa62910b212e19f566e52af"
+  },
+  {
+    "path": "ai/build/_ox_proverka_simmetrii.py",
+    "sha256": "c3b496a5643de8730231bf57147515add53e73f2b4187fa19764508a2c6d3284"
+  },
+  {
+    "path": "ai/build/_ox_pustaya_po_nomeram.py",
+    "sha256": "e4c986f9918f925c3188deb5ca017e8d1d6a122956c4b3fad4d02e7628fc50d8"
+  },
+  {
+    "path": "ai/build/_ox_reyting_resheniy.py",
+    "sha256": "a60abadaac64de641fd608602cfa9d5ab8bcc9a1f3a36f46af6edc3652b7a055"
+  },
+  {
+    "path": "ai/build/_ox_sintetika.py",
+    "sha256": "5e17dfab0d9e18b983d35d9cc30f79770e74f884181a899c9160fa8349052697"
+  },
+  {
+    "path": "ai/build/_ox_sintetika_po_kolonkam.py",
+    "sha256": "6c2509f5dfe23a4e2f5542e04d042ce896e57d7b821d575486c6da5557fcd46f"
+  },
+  {
+    "path": "ai/build/_ox_sprt_kalibrovka.py",
+    "sha256": "23fe7d568b15e95bf13e031ca0090668a0cde37e064a7bf8c26d996d2029802d"
+  },
+  {
+    "path": "ai/build/_ox_stek_v_cikle.py",
+    "sha256": "4ae3adbae7e186c7de04a97130331d8c6a32b6beed670b9a3c9a694f5c98477e"
+  },
+  {
+    "path": "ai/build/_ox_vektora.py",
+    "sha256": "9478e62aeea476ae07ccb327baadbdb18fb5ec4a2d9bb90b8908db49c88d43b9"
+  },
+  {
+    "path": "ai/build/_ox_zerkalo.py",
+    "sha256": "108fbf69e006492a470717ca8645dd12ede6acab28ccb45d5b820362e0e6212f"
+  },
+  {
+    "path": "ai/build/_ox_zerkalo_fiz.py",
+    "sha256": "55973301e0cf28e80e3a527a3fe2c92b971c646fca6f3da9c6282a88d80708bc"
+  },
+  {
+    "path": "ai/build/_probe_1717.py",
+    "sha256": "f0b3316172ecef09a1ef64699507842dc5b9c1aabc6e4a4ad44d497eb4b90318"
+  },
+  {
+    "path": "ai/build/_probe_agoniya.py",
+    "sha256": "f7ecdbd7bba87e92b68203e0084e6bc787532bc52586931f95abfa43d785682d"
+  },
+  {
+    "path": "ai/build/_probe_brezguet.py",
+    "sha256": "1d2f93fd61f09f1e5b44b6701f86e08c274d4f68fb54e7a951f62e4fcb6b4c3a"
+  },
+  {
+    "path": "ai/build/_probe_chto_dalo_obuchenie.py",
+    "sha256": "7e82ce77269a70fdb4a714500fbad1c1153b5a9742739250bc86372bf8acad5d"
+  },
+  {
+    "path": "ai/build/_probe_cveta_kamney.py",
+    "sha256": "9552b80bca7231957324d0c12ef644d071e0c503fb94cfa8182c123db274c372"
+  },
+  {
+    "path": "ai/build/_probe_dyra_0m59.py",
+    "sha256": "a3a8a83794f4c8bb84e3370dda17c1552d9546f9680520e0e7851fb15a0b1fef"
+  },
+  {
+    "path": "ai/build/_probe_dyrki_dolgo.py",
+    "sha256": "fc019f0c285198183e10ae15c9029b374f06729d5566cfc766fb0eabcad34f22"
+  },
+  {
+    "path": "ai/build/_probe_dyrki_metka.py",
+    "sha256": "2fdcf3e498987ab80f99aab52fefcbd5366bea5e3c29fe34795f90fb20e0ccb5"
+  },
+  {
+    "path": "ai/build/_probe_gde_pole.py",
+    "sha256": "0ea0c33247a5ee0411f1540e5f6e0d66970d7afc5faface0520628b9569d667a"
+  },
+  {
+    "path": "ai/build/_probe_itog_gruppy.py",
+    "sha256": "43ad6083f0565c2fadf33a08c5671a2dcd8ad086233469a360b2ffeb90a4b3b6"
+  },
+  {
+    "path": "ai/build/_probe_jitter_granica.py",
+    "sha256": "292d1aa26c0009d1eeca771f63c560262a7d8e040a1020c2a69fa91412f71c06"
+  },
+  {
+    "path": "ai/build/_probe_komandy_zvuka.py",
+    "sha256": "bca529f0291b01a1065f72bf318966cdc8eca76860a42b0e8b1c432b38d1e86f"
+  },
+  {
+    "path": "ai/build/_probe_kto_dyrit.py",
+    "sha256": "28ae191eb84dcfff3b9f1779dbc216770f483ff045ea1dcbdc564b57b4d2e74f"
+  },
+  {
+    "path": "ai/build/_probe_kto_pobedil.py",
+    "sha256": "eb17c9d786b71788e0c8ff9899c6d8188e5688e23457b6400d56777329c26c93"
+  },
+  {
+    "path": "ai/build/_probe_kto_rulit.py",
+    "sha256": "55a7ab2f85b8cc9349cb08d08cfd28cf5c2242f8957d8c1d9fa92fb225c23cfc"
+  },
+  {
+    "path": "ai/build/_probe_kto_stavit_flag.py",
+    "sha256": "03f26a54fa74818b903cacbaafe13ddaa0f57cbf6eb12617c72a7c0764b2e4c2"
+  },
+  {
+    "path": "ai/build/_probe_mirno.py",
+    "sha256": "353d9b1ae910ad6ebd69356a079c367c34a6b5ab9477af0ac4e7c987128095b2"
+  },
+  {
+    "path": "ai/build/_probe_mnimyh.py",
+    "sha256": "ae7d85fcf457d8049964f154b071271a9c1d807296f73f4bd6700686b77492ce"
+  },
+  {
+    "path": "ai/build/_probe_novyj_protiv_starogo.py",
+    "sha256": "fbfe442a9e15b3579471674ec9507e7def15ee66607193ecec9f6600a7b15b05"
+  },
+  {
+    "path": "ai/build/_probe_oborona.py",
+    "sha256": "2a27e77943e84bf8d5dc6c288926ef502cffcd8633ff817f7c47739696444987"
+  },
+  {
+    "path": "ai/build/_probe_oborona2.py",
+    "sha256": "316fa3286512a23d1e130a8bf04343802b29806764e9aa9d6e4062a683c37e32"
+  },
+  {
+    "path": "ai/build/_probe_otchego_umiraet.py",
+    "sha256": "71fa5d6ec1857a081fbb9378cd3d4ba0d29ba9c40fdc39cb7434d46b2e757321"
+  },
+  {
+    "path": "ai/build/_probe_para_prizraki.py",
+    "sha256": "ac02e944e7be31fdb7cce9d9dca5926a9d8da4345794f827e375dca02be0991f"
+  },
+  {
+    "path": "ai/build/_probe_pitonom.py",
+    "sha256": "52f43b0b83d53acda22147d7e543b7b7683ed8b7ee332bf8b5d8d865e79f627d"
+  },
+  {
+    "path": "ai/build/_probe_podsadnaya.py",
+    "sha256": "82ac2ff4bab6a1ad9b44c07d2df0e12194affe736f0cd307e93c0d45bc738d56"
+  },
+  {
+    "path": "ai/build/_probe_port_ili_igra.py",
+    "sha256": "d91a51d0e4f3ae91855d27b13cd0c9599024c3e31f9abc06f44e6f0d68e944d8"
+  },
+  {
+    "path": "ai/build/_probe_potolok_12.py",
+    "sha256": "285d151b39a4e4e017f535706d201a706d0e473f57c137ed60e3ebf63064006e"
+  },
+  {
+    "path": "ai/build/_probe_po_instrukciyam.py",
+    "sha256": "a3a862d74d23062649ff466a484ff499f460acc7b01a3d060562da616a766540"
+  },
+  {
+    "path": "ai/build/_probe_prizraki.py",
+    "sha256": "57b2fa3456c48bc38e63a01234c498d2d002abffda774493af724077a18c665f"
+  },
+  {
+    "path": "ai/build/_probe_prizraki_sidy.py",
+    "sha256": "e4833eedf09d9435ba88738a3c40d2ffbf102f1caf3ab7275aef561b071be534"
+  },
+  {
+    "path": "ai/build/_probe_pustaya_kolonka.py",
+    "sha256": "66788358ff92bf181da5c416787ca4df58e645eabaf9e2cbab5fe345e7b4760f"
+  },
+  {
+    "path": "ai/build/_probe_raspisanie.py",
+    "sha256": "b6ad952766fe05ab59b775ca84714bb88b937119db2cb22f3725b3fbe08f3c7b"
+  },
+  {
+    "path": "ai/build/_probe_raspredelenie.py",
+    "sha256": "01c084b24420cb105268982934f729f5b1ff1194ba165d890057498147b9dd46"
+  },
+  {
+    "path": "ai/build/_probe_rozhdenie.py",
+    "sha256": "e6b15887128f462d02f75b7e9e958a4b6e841d5a433c845d828ee3712edcc4b3"
+  },
+  {
+    "path": "ai/build/_probe_rozhdenie_regs.py",
+    "sha256": "d02bfbdedc229991b4138688220cbd598c9ca89be2474a0c59a7d56c4207e146"
+  },
+  {
+    "path": "ai/build/_probe_schetchik.py",
+    "sha256": "7a9ea11514969520366aba042404d3f47560533d106e1efc63b78d933f7bd2c4"
+  },
+  {
+    "path": "ai/build/_probe_shum_gejta.py",
+    "sha256": "0978f0188779b1b59d6be5c26f9c3c81c07a8cecb6d3e29d60d49e565bd19877"
+  },
+  {
+    "path": "ai/build/_probe_sled_i_zoloto.py",
+    "sha256": "99e1e035600c000ddb7c146b1e85b2f93bc76f657e5d183b8ddbb05edaf7daaf"
+  },
+  {
+    "path": "ai/build/_probe_sobytiya_zvuka.py",
+    "sha256": "7e71f5e551b606bf6d8fd85560018865aaa710b0d6a621c297a112210a0e2624"
+  },
+  {
+    "path": "ai/build/_probe_sound_test.py",
+    "sha256": "5bd89ced4f6df616e6d269885162dd230486f4eadd7b7574bd3495077d585a9d"
+  },
+  {
+    "path": "ai/build/_probe_sound_test2.py",
+    "sha256": "d8e8b6ccb7e82962011115b2ff9cc4b9c27268a49832fb3732174ff1b4525491"
+  },
+  {
+    "path": "ai/build/_probe_sound_test3.py",
+    "sha256": "43bc994f7731e2e4bfce3b49c18715e68646d16e7abce1eab1a523fe1c1812a3"
+  },
+  {
+    "path": "ai/build/_probe_summa.py",
+    "sha256": "2f5c5eb69b9c1638190b7bd0e1c3a3cae95588a98d199f14efecfe556dfec929"
+  },
+  {
+    "path": "ai/build/_probe_svobodnoe_ozu.py",
+    "sha256": "17c34f5b2b61bc7a859289f45b6fbe6ce531da5b8df76908ff12dc58f7e140e0"
+  },
+  {
+    "path": "ai/build/_probe_syroe_pole.py",
+    "sha256": "594e75f06542ec7c5c7dd89163873a7140e468ab5d66db607193d9e0ebf42352"
+  },
+  {
+    "path": "ai/build/_probe_s_rozhdeniya.py",
+    "sha256": "cdb8ae04a3832fa84d67af74608be3e1abae5d5b8ce444896b1a74f8d6b96105"
+  },
+  {
+    "path": "ai/build/_probe_taktov.py",
+    "sha256": "814d5a7fea747a24b09ae75969b3c557811bdc92a12a7d93aea59b1fb9ed7ece"
+  },
+  {
+    "path": "ai/build/_probe_tri_rezhima.py",
+    "sha256": "7c7800828a37dfcdf0a1bc84388a8bc99f1f1eb0e17bb090edd647e7db8f9d7f"
+  },
+  {
+    "path": "ai/build/_probe_vniz.py",
+    "sha256": "3598b4f0250975b34cebe017e8c98dff04d2e25a1d046814e71aca0f9afc192b"
+  },
+  {
+    "path": "ai/build/_probe_vse_zapisi.py",
+    "sha256": "ff45de4311080b24bfbf10591c153ac1f611b8ad72cc37085488f835e5ecfc9a"
+  },
+  {
+    "path": "ai/build/_probe_zaplatka.py",
+    "sha256": "aa95b66d6bd26df1f030440332a6e2343d8d33fda095e0d29618960f3a7b3f6d"
+  },
+  {
+    "path": "ai/build/_probe_zoloto_krug2.py",
+    "sha256": "126d9e9b17e16b0db94fb96dc6138ea6bda4aed75359f3ceffab16d984e5c8d7"
+  },
+  {
+    "path": "ai/build/_probe_zoloto_perebor.py",
+    "sha256": "6629b173ac2bbd0faea1e611f9bcbade8c7d5bd1dc738554c2cf546b6e0d0b42"
+  },
+  {
+    "path": "ai/build/_probe_zvuk.py",
+    "sha256": "889861b6f5dee03f0afb8b7fa633a6fb397305a80511b0d986597685b8bb64b0"
+  },
+  {
+    "path": "ai/build/_sobrat_zvukovoe_pzu.py",
+    "sha256": "dd8978666df799acafd73efbd45be49562e40692a191b1cc712700df8b01352a"
+  },
+  {
+    "path": "ai/build/_video_vsya_igra.py",
+    "sha256": "6f8fce4cb2e39ae466a6610dd1d9a67b011bd610d8d4f56bb26b1c17d0ec553d"
+  },
+  {
+    "path": "ai/docs/c3b.asm",
+    "sha256": "33a16cff2e1955b0bc494ae29236b5846125a2408ce6cb21579d8ba9ed6496d6"
+  },
+  {
+    "path": "ai/docs/c3b.json",
+    "sha256": "7a428a1ef468c8310ba8c440157aed881fbda8fd37e1be56f47217800648313d"
+  },
+  {
+    "path": "ai/docs/c3b.subs",
+    "sha256": "3c71b571ae90763a273c415e13c11de6a3fb9aa8da1aaae69d2fa47f1be745af"
+  },
+  {
+    "path": "ai/docs/IGRA.md",
+    "sha256": "57296ef4798dccc2344cf6e5541fe7c62db74a28ea875a2229bc92bff6585fdc"
+  },
+  {
+    "path": "ai/docs/razvedka_obuchenie.md",
+    "sha256": "b2120088115e0b12b9e175a476ba5e143299bb387fd0afacf38ec11ab9d4d02d"
+  },
+  {
+    "path": "ai/tools/bot_io.py",
+    "sha256": "ed0b07a0aabb0a8c06916b8eaeb6e15bbc7700c0ff12c5a41fbd002c1779fc7c"
+  },
+  {
+    "path": "ai/tools/brain.py",
+    "sha256": "925aa59ab83e2cfa7c40f90c204d15a7c50dfe1f46a289c985d22c33004bc8b0"
+  },
+  {
+    "path": "ai/tools/color_sets.py",
+    "sha256": "a7ea7e1a3d963968bb15f9710399bb4244534442c3800d8343b10692ef22c6ee"
+  },
+  {
+    "path": "ai/tools/duel.py",
+    "sha256": "f7ec0fd9990fc9fa79d7231701da20c767da4497571d00f08fa23947b2fedc91"
+  },
+  {
+    "path": "ai/tools/duel_record.py",
+    "sha256": "36ae7b936036099339640be2093a2c850dc28564289f043228ab53776ece560c"
+  },
+  {
+    "path": "ai/tools/efir.py",
+    "sha256": "c8399a28828c1ff31df78d5a3b3ae8b25f70e7e014ef5f9e46f0a285c4e1b39e"
+  },
+  {
+    "path": "ai/tools/md_machine.py",
+    "sha256": "f8a9cd3f36ad2030116ad18becc1a5aa5e82886181f5bffd67858eca30120ba1"
+  },
+  {
+    "path": "ai/tools/patch.py",
+    "sha256": "6bca9fb85060115afe9b98cbb2591733e6bb008a2620faee6b71169d803df0fa"
+  },
+  {
+    "path": "ai/tools/play_rom.py",
+    "sha256": "ac80ea18735cde0494c9e9c50d4ff74376acd825193aa530d62acc61cdaa052c"
+  },
+  {
+    "path": "ai/tools/proba_stilya.py",
+    "sha256": "cba4ef9641d30650f344c7d1b53c9814c8b71a00931dab04025e15969541122b"
+  },
+  {
+    "path": "ai/tools/probe_8b.py",
+    "sha256": "011ea1c1102a1c43741a16948b6c33f2ef5db2a50cd9eb9181bc6db4727eac41"
+  },
+  {
+    "path": "ai/tools/probe_bystro.py",
+    "sha256": "13aab0ff052636f38724aa3dfbdb33efb4a21a91f1879b4876d7de1ea346757c"
+  },
+  {
+    "path": "ai/tools/probe_chtenie.py",
+    "sha256": "f0bb8a3d5a548c5adc7268ad7da7ef189eec1bacfad3ce64c49e4ede36c52466"
+  },
+  {
+    "path": "ai/tools/probe_clamp.py",
+    "sha256": "81c09bd86a86a17b1efbf3813fb1d036610254935bf5c67ef6e76601ad552bad"
+  },
+  {
+    "path": "ai/tools/probe_crash.py",
+    "sha256": "cc7ba19e78a0bf02010037cfe3cd0d7518e1b50e931c51776c92aa38fd74bcae"
+  },
+  {
+    "path": "ai/tools/probe_curse.py",
+    "sha256": "e1e20f5ff8df0dbb3837f669afffb860bfc647fea76b127766d6c62088ed6ce6"
+  },
+  {
+    "path": "ai/tools/probe_dyra2.py",
+    "sha256": "85892c0d48e83253dc626ec7d8f6c48b007f89d4374d78d9bfa2f77e1712d5ca"
+  },
+  {
+    "path": "ai/tools/probe_dyrki.py",
+    "sha256": "74fbfb55aa8aceaf9bbd032a8fb94df59b8eef0f4281b2fc49f9c5341ca43aab"
+  },
+  {
+    "path": "ai/tools/probe_effect.py",
+    "sha256": "c27d5b9188b5c556801dff7b1eb42bf552d00e09bb9aa3ea37b46e025aaaad1b"
+  },
+  {
+    "path": "ai/tools/probe_end.py",
+    "sha256": "d8f8af55dc9978767e8fa719658772d94efcc452ea4ba8e792b1feb46a389540"
+  },
+  {
+    "path": "ai/tools/probe_gold.py",
+    "sha256": "50a68d8094e5fa324620472f7c03ff5818ae14695ede24fda9eebf425e3714c5"
+  },
+  {
+    "path": "ai/tools/probe_gold2.py",
+    "sha256": "272eb4785dfbb247bf58014701fac8a8a84573e84311c4bd852c7249516d64ab"
+  },
+  {
+    "path": "ai/tools/probe_gold3.py",
+    "sha256": "7de9e3c58390ff02c872641c0366e9edddeb764e72aa1d7b29688f2a2bfe0c5c"
+  },
+  {
+    "path": "ai/tools/probe_kadry.py",
+    "sha256": "3ba6d5eea1b0ac08913cdc4b987cead07b0083114050c32af738202a391ca0c3"
+  },
+  {
+    "path": "ai/tools/probe_konec.py",
+    "sha256": "b360cd684b8f5fa3612283a3266bc6f08869cd1dd8c135537dede45623094dcd"
+  },
+  {
+    "path": "ai/tools/probe_konec2.py",
+    "sha256": "7bfac063258bf4831d634819ff28326d5af7a68df053da2943380eeb726204dc"
+  },
+  {
+    "path": "ai/tools/probe_layers.py",
+    "sha256": "6aeef9ba6f025cbc28bc0ec1ddf5f25c584228acc1cc1eb0bcfa5a371d31d4be"
+  },
+  {
+    "path": "ai/tools/probe_layers2.py",
+    "sha256": "7d6242b7785cc55198183d76e8b04e270eff91f60cceb0c3513c9d8c504c14d4"
+  },
+  {
+    "path": "ai/tools/probe_lenta.py",
+    "sha256": "aa131d94cdfc36c5fc45abb84e8bf3b77b0ae99c1334242542a7fb0b8d01e7d1"
+  },
+  {
+    "path": "ai/tools/probe_letit.py",
+    "sha256": "d4f1b8b1c7ce1f1b3aa3069fbe6e48e88bf0f156899e434c7e3cc718831ee578"
+  },
+  {
+    "path": "ai/tools/probe_menu.py",
+    "sha256": "8e7fda5d8253fde320c8b35262cba0fc5af988b5d8aee742455af18aab9da3a5"
+  },
+  {
+    "path": "ai/tools/probe_pzu.py",
+    "sha256": "117bfc25746cfc9bcaf637ed8f90694baf73b35860f5d6ee93d7b01a54625aa5"
+  },
+  {
+    "path": "ai/tools/probe_rezhim.py",
+    "sha256": "30502dd081f3a64989a6ff9559ba3150dad869b4bb6e75ba5539a36fceb57f1d"
+  },
+  {
+    "path": "ai/tools/probe_rot.py",
+    "sha256": "33fc8be74700b0483877f64de63970e571a0d8b5b61113a59beeba25177ffcb5"
+  },
+  {
+    "path": "ai/tools/probe_rot2.py",
+    "sha256": "7ed380938cf5d3638dad89a3db30d8067008ca9f279c14524b1603b666cd14f1"
+  },
+  {
+    "path": "ai/tools/probe_sloi.py",
+    "sha256": "62b527360ec2907225914fbcea523f326ce5020c353aa86bffb9607bad2f9f13"
+  },
+  {
+    "path": "ai/tools/probe_smert.py",
+    "sha256": "94ffad6ca2585573a55865bc99546a1f5ea6b0c4de6560ad6e254ecbf43d7f9e"
+  },
+  {
+    "path": "ai/tools/probe_solo2.py",
+    "sha256": "b0aebbd72cd53aded4eead8c366f5ced1ee806cc883b3058955d54dd51a464d8"
+  },
+  {
+    "path": "ai/tools/probe_special.py",
+    "sha256": "7d411c1a6ab06bafa47bded9da9dd11d15a794c50d2c969aa6ff807989691792"
+  },
+  {
+    "path": "ai/tools/probe_tochki.py",
+    "sha256": "4f2ff7fae170c7b259885e92877ba0c0bd076753840e6c51d185a54d36ea9c51"
+  },
+  {
+    "path": "ai/tools/probe_tri.py",
+    "sha256": "d2e74a63f7df39ee4b89d199c199a8c3d8933f3b899844ec10014fbdc3b7c316"
+  },
+  {
+    "path": "ai/tools/probe_zavis.py",
+    "sha256": "daaddff1dfe8d5dbdb0288a472c04832bc3f1766b3a9aede957ea61ae4dee9bf"
+  },
+  {
+    "path": "ai/tools/probe_zoloto0.py",
+    "sha256": "960d13b8135c99ab8be372fb9a05c38abfbed1f602b71168e8176c82dbed65f9"
+  },
+  {
+    "path": "ai/tools/probe_zrenie.py",
+    "sha256": "2a0ccf8d62ad490e38c37edd19ec76536e2fef8997722b85e4252400847a2712"
+  },
+  {
+    "path": "ai/tools/record.py",
+    "sha256": "c7c4446c627cb96abf706ff05c2f4865ea255a5897c50d2f42d6135bcbb118f7"
+  },
+  {
+    "path": "ai/tools/rules.py",
+    "sha256": "dcb647ae6e8ba3f8dc5801d1db550c64194c95e6d88284b5fc2826c1d764fde6"
+  },
+  {
+    "path": "ai/tools/session.py",
+    "sha256": "534b2ca5ab3286d4c10e78baf4dc1e57c178177517a6f7b3bdffd7a9ea92bfda"
+  },
+  {
+    "path": "ai/tools/showdown.py",
+    "sha256": "7297b5478a653c6392f2d55f56c9a30f7f4ccf1923dcac2ebef7c6dd70346b24"
+  },
+  {
+    "path": "ai/tools/simulate.py",
+    "sha256": "dc1009c40f1329040ebc28ac68ff84b84187edae13745a3eea94259421b8ff52"
+  },
+  {
+    "path": "ai/tools/smotret.py",
+    "sha256": "732efdc15396067292567046d1be2912b653facad391b85c000224c321057860"
+  },
+  {
+    "path": "ai/tools/stend.py",
+    "sha256": "25b438cbb3a55115d6190e85e587ac3338f88beb77b9f8df799b4739135d1873"
+  },
+  {
+    "path": "ai/tools/test_solo.py",
+    "sha256": "4e8ea2a86f12ec4523490de0398ba317a93f66a821a4509ea61c47a7b6b49ca0"
+  },
+  {
+    "path": "ai/tools/train.py",
+    "sha256": "c96888852f78e63b7b38d8ab5ed9bcf7a38e3cdff25758c35f123a896002bb3c"
+  },
+  {
+    "path": "ai/tools/train_duel.py",
+    "sha256": "07d6779dedb7b8994be208c20f00beb275f796a61f845e726258cf485664ed63"
+  },
+  {
+    "path": "ai/tools/turnir_atak.py",
+    "sha256": "1f8d56bad80420404a73df1bd07c6c6bea07ee7cd54e6fdd4a8aebc6f7f4ddd7"
+  },
+  {
+    "path": "ai/tools/turnir_stil.py",
+    "sha256": "547845beb2e13ce4b23282785761ccdab9f7402e674a0b170c2878a5f142e5c8"
+  },
+  {
+    "path": "ai/tools/verify.py",
+    "sha256": "60fe84cbb01dc132c4bd1e9d522f00cd7f40041e54011a16147ec5e8f5ff3e29"
+  },
+  {
+    "path": "ai/tools/video.py",
+    "sha256": "a8777e80db955d44e75aba6b42b6810043c65e532103b19e82e9ae6711b709f4"
+  },
+  {
+    "path": "ai/tools/vskrytie.py",
+    "sha256": "5b2d133587f069d5a080bba14d7bb43be894321ee25db74680e5e241a271f946"
+  },
+  {
+    "path": "ai/tools/whowrites.py",
+    "sha256": "ee093ee76d9dfbee46ffa674ce0084451aa8999fa54c41e2e58def558e13d467"
+  },
+  {
+    "path": "ai/tools/zvuk.py",
+    "sha256": "91d45a5607a5efc5820d4bf7ae1fa5fc5a7f9c48e5c7c5f604c6cb8879e695a6"
+  },
+  {
+    "path": "mod/build.bat",
+    "sha256": "310865a1c64373287ea0dd714e49f54a057500cd775fdf690baa02f07d251688"
+  },
+  {
+    "path": "mod/music.bat",
+    "sha256": "5895f9546839148cfd5203a8f590cc774fc061440c51400d9128dc87f400bd38"
+  },
+  {
+    "path": "mod/ROM_SETUP.md",
+    "sha256": "d9a1a4390330dc8181b45e0b9c0401533e9fa4846b6402c806377c9ae8938b50"
+  },
+  {
+    "path": "mod/art/bg_build.py",
+    "sha256": "11a3f0c9d3807c443cd213d1f40d412a5b2ec17f368de0625f4d4a608fc1bc4c"
+  },
+  {
+    "path": "mod/art/bg_sm.py",
+    "sha256": "92c37944bdf70e49915a303793d2a06e94d31e05e2cfe7b70a55dd7d42d68c3a"
+  },
+  {
+    "path": "mod/art/encode.py",
+    "sha256": "c1dbac225957ebf18265b0dd294be77c0d555ca261ae6e6176200e05c0e6e6a1"
+  },
+  {
+    "path": "mod/art/jewels_sm.py",
+    "sha256": "b925dcf909579e6a30503d325247ccc4c2efa620c6058ec9328726183b8d954a"
+  },
+  {
+    "path": "mod/art/luna.py",
+    "sha256": "0632c03f0ab05059e351eb75ee1371ef408f0c641953efbcafe5540dc1a395ac"
+  },
+  {
+    "path": "mod/art/melody.py",
+    "sha256": "1ea22c614eac324ca68eb09a87314f7b02fe7f56dd1b607eb4c530801808d440"
+  },
+  {
+    "path": "mod/docs/c3.asm",
+    "sha256": "f14b944544b0250fbe348b250a1ad896b1c2f96b1a0229087887973d663534a8"
+  },
+  {
+    "path": "mod/docs/c3.json",
+    "sha256": "9d70447b763dc12734aef2a1a2d8d36f554ef8a6fa4efc6567c012c48492d0e5"
+  },
+  {
+    "path": "mod/docs/c3.subs",
+    "sha256": "3379218b24995970d2f32cf0f85f7a4a94e1e095ece58b8c644743adaa60fe13"
+  },
+  {
+    "path": "mod/docs/c3b.asm",
+    "sha256": "33a16cff2e1955b0bc494ae29236b5846125a2408ce6cb21579d8ba9ed6496d6"
+  },
+  {
+    "path": "mod/docs/c3b.json",
+    "sha256": "7a428a1ef468c8310ba8c440157aed881fbda8fd37e1be56f47217800648313d"
+  },
+  {
+    "path": "mod/docs/c3b.subs",
+    "sha256": "3c71b571ae90763a273c415e13c11de6a3fb9aa8da1aaae69d2fa47f1be745af"
+  },
+  {
+    "path": "mod/docs/c3b.tables",
+    "sha256": "43c90ddd865631b7f71e7db1b7b2b7fb77df41231f4f39cbeb4d49f292cafbf0"
+  },
+  {
+    "path": "mod/docs/lokaciya.md",
+    "sha256": "a6de4a62177bbb6f2dc91e90883dd5a61c695ce725f0352c3f83b7713fc9f76a"
+  },
+  {
+    "path": "mod/docs/razbor.md",
+    "sha256": "3280938f22eec93ee7d1557e013c84d9bd1ade9609ae47ec0ff31786ef43de08"
+  },
+  {
+    "path": "mod/docs/SOSTOYANIE.md",
+    "sha256": "ef79b2f98a016d259db77f20cde001b15006649b1a1c2363bc87561d5fa5518b"
+  },
+  {
+    "path": "mod/docs/turnir.md",
+    "sha256": "32882f8a6f0e5ebb00f210c98c303ef6146d3e1300dadb8de6476f69dbce7651"
+  },
+  {
+    "path": "mod/docs/z80_driver.asm",
+    "sha256": "5737593581a8352a8e78e88c97cd72a4337e166ab56255139081278c05905bb4"
+  },
+  {
+    "path": "mod/patches/sailor.py",
+    "sha256": "6595a1571925621eccf81cb661a2ace52c9d580baffe1b97557ec6c4af27cfd4"
+  },
+  {
+    "path": "mod/patches/test_combo_x8.py",
+    "sha256": "159fa2fd4bc15a4977f2c503e758ef3c1b2126ec2544b1c2ab968d7eeda4b774"
+  },
+  {
+    "path": "mod/patches/turnir.py",
+    "sha256": "ea821354f766799e1741962c109b39bd6bb870446859ec1b4c4d6171a41ceb23"
+  },
+  {
+    "path": "mod/tools/anim_path.py",
+    "sha256": "4c1adbbc0bc71629eb7f37134d2fb6dde447d5730799c2c3a84bbb1d5d874da3"
+  },
+  {
+    "path": "mod/tools/anim_state.py",
+    "sha256": "6cdb71a117d08a854a0079994c00f565e804b9d04c7ac6345786ee5cae1e1fd3"
+  },
+  {
+    "path": "mod/tools/art_preview.py",
+    "sha256": "dc34b4e8c47ff00bdb6d7a47fbe9116df948796fe957fbf21bc12dd7014663b3"
+  },
+  {
+    "path": "mod/tools/asm.py",
+    "sha256": "c972297aa4240448dd3c1a2dd8fe202c2f8d2dc90c2ebffc720ca7c91a7462cf"
+  },
+  {
+    "path": "mod/tools/assets_map.py",
+    "sha256": "f2a5320a816981fb118376d2343b29355f69e2a5f54889e0110ad658c9c6f9c7"
+  },
+  {
+    "path": "mod/tools/attack_reader.py",
+    "sha256": "7ebe4f5d5c395d8352ec62cf15d71056a4b060db39b32fcea6ecffb7565047ab"
+  },
+  {
+    "path": "mod/tools/attack_row.py",
+    "sha256": "99e92e77af73d17fca2ac35ca5e16110bc31187f05784343c8ca5e2c307f4c09"
+  },
+  {
+    "path": "mod/tools/attack_var.py",
+    "sha256": "40ee7dcee8b049a8df161b7980f2e40416ab441d43ba20cfb0a16cb52bc0154c"
+  },
+  {
+    "path": "mod/tools/autoplay.py",
+    "sha256": "a21e8ff363c5b1e805b27c7b7e2fe10177e431d887dc12bc70b5a5236ee9c7d9"
+  },
+  {
+    "path": "mod/tools/bg_map.py",
+    "sha256": "78b99226f0c13cecceba3c54fe1d35af1751bc07e585e68f521ddc56d0ee0419"
+  },
+  {
+    "path": "mod/tools/bg_mask.py",
+    "sha256": "70e032f29e1b380eec4f1ea04279a9c2c47f6116cb812df2e6b064010f18c9b9"
+  },
+  {
+    "path": "mod/tools/bg_reuse.py",
+    "sha256": "c2957dd47fbf3e4db7640668dbfc003330d3014b17822bfe1a09d89fec70366e"
+  },
+  {
+    "path": "mod/tools/bot_io.py",
+    "sha256": "62b5e50357ca57c98ca6a279109e6d833049d07d4f1aaa16ccd2301d69135455"
+  },
+  {
+    "path": "mod/tools/buf_room.py",
+    "sha256": "a11e31e29e9b50f38101a60999f7f91b4c14af0b4810d4c2c48ee28aa4b1a0cf"
+  },
+  {
+    "path": "mod/tools/catch_b4.py",
+    "sha256": "4bf68b2c7028daa4e165fe529e7092fd53f9ac4e78cf44c71f2f0dd349f1a944"
+  },
+  {
+    "path": "mod/tools/chk_players.py",
+    "sha256": "bf661cae1d290c910575dc105bbfb1bae0103a4259c30599ba31ca48c45fc41b"
+  },
+  {
+    "path": "mod/tools/chk_ptr0e.py",
+    "sha256": "82fd49132c46f687f4257291fb9d5745a75afee33800ff4aa995768a64742988"
+  },
+  {
+    "path": "mod/tools/compare_roms.py",
+    "sha256": "b0bfba93facd00fd1c547f77e810619d9eed3bc5254f9349b08e838701cef620"
+  },
+  {
+    "path": "mod/tools/correlate.py",
+    "sha256": "a6de02763cba49cdbee573d7bbb5e549baf613f009784cbed1e30ca763754c17"
+  },
+  {
+    "path": "mod/tools/counters.py",
+    "sha256": "87302d4568f725890bc5621b934c4390e367928c7b5155a02dffa179f892d9ec"
+  },
+  {
+    "path": "mod/tools/count_loop.py",
+    "sha256": "577caec7aa6e0b628c7e760d1a40a0094e6237ed3805bc8c9bd503b6e25f9859"
+  },
+  {
+    "path": "mod/tools/cursor_map.py",
+    "sha256": "cb2b0899d810ac3d6f130e0d01ab99f868d9a3e0d92a2ec492bd33f8c48a066b"
+  },
+  {
+    "path": "mod/tools/dbg_case.py",
+    "sha256": "b965f82adaace69a83fd8418ece870b942190e5927e72187d68e90ee5533aa86"
+  },
+  {
+    "path": "mod/tools/dma_index.py",
+    "sha256": "239a17b7a2a04100455a3b01aea1c43a44a3a6c35aaf1085ba0c8cd9c6b82ef1"
+  },
+  {
+    "path": "mod/tools/dma_slot.py",
+    "sha256": "5de5fd8288a298976da72d0ff00f8ddad45889bd9ca07860e01405cdaa463109"
+  },
+  {
+    "path": "mod/tools/dma_trace.py",
+    "sha256": "106e4b8ef1e6fa024908376242fbd1fef3b359bb18c6dd4c29a231c21a203476"
+  },
+  {
+    "path": "mod/tools/dumpblk.py",
+    "sha256": "ea690371d6795b71a057ab0ce34afc97f5bd4d29b29cfa662310bd6523aa4c5d"
+  },
+  {
+    "path": "mod/tools/field.py",
+    "sha256": "0ecf8fe5f2943c76eecb3f76204074c8c0aa517d4c7b0b630390c673f9aff8fa"
+  },
+  {
+    "path": "mod/tools/field_top.py",
+    "sha256": "16844e4959777fbe4cde2fe4923c74f0e9ba03c61ab146f761891a6ac2ac99c8"
+  },
+  {
+    "path": "mod/tools/findcolors.py",
+    "sha256": "b45b385e17dadac2ca5e24f3498ef34673eba712ceacb94c1d2248ea5c99226c"
+  },
+  {
+    "path": "mod/tools/findwins.py",
+    "sha256": "66e4ebf9476c3ca090c73851f830f5540b98f863d79bdcdd981f193f7bbe7516"
+  },
+  {
+    "path": "mod/tools/freeram.py",
+    "sha256": "59fd9e7249abba88742110ebdce27eecd42911a7567ca57ac09f4e42e41e25e5"
+  },
+  {
+    "path": "mod/tools/freeslots.py",
+    "sha256": "10092e0567e8d24de81e94088daff80cdaec3833e19ee4bb27fa2e96d6b988a4"
+  },
+  {
+    "path": "mod/tools/grid_palette.py",
+    "sha256": "2e27f2701b096db583527a656088e74c5e7cf08b2a427ae527262ed48bba940d"
+  },
+  {
+    "path": "mod/tools/header.py",
+    "sha256": "98ce7742a387d991ea06f566171a2b4aa5bcf63cd81d1dc47edb9e1093c4c153"
+  },
+  {
+    "path": "mod/tools/hunt.py",
+    "sha256": "63e67172f4106cc9cf8d657045f666e6af01051358e7561912032d1efbebdcbd"
+  },
+  {
+    "path": "mod/tools/hunt2.py",
+    "sha256": "0eb125f1e7488100ec925c03474c90862b3b297b23a4b8bcb960cb1d90be8b2a"
+  },
+  {
+    "path": "mod/tools/inputdiff.py",
+    "sha256": "813c5940294ad9844c8acf921cf333304465efb7b4f1816dbdc431f9b98be267"
+  },
+  {
+    "path": "mod/tools/jewel_art.py",
+    "sha256": "a4013d4f4dbb2ca763b7bec031b13c579744fdf6f1c1cbd0c0fbf62f782fd4a6"
+  },
+  {
+    "path": "mod/tools/jewel_map.py",
+    "sha256": "7955715473b071cce34f0910e5e7949a239ec804bf0d817e120425ddb7dce1a3"
+  },
+  {
+    "path": "mod/tools/jewel_map2.py",
+    "sha256": "68405ba435331d7eef4c09b01dfb8b69d51e7a686b85bcbcccd301038cf3d931"
+  },
+  {
+    "path": "mod/tools/jewel_tiles.py",
+    "sha256": "7da5b376e277dd30ae8944b25727a8c615a942d9494a1042d445a305ae4f7450"
+  },
+  {
+    "path": "mod/tools/mascot_map.py",
+    "sha256": "aa0e0572988ab823664ad2c78c271c05f9a58f42236d314a7d5426477eaee3ce"
+  },
+  {
+    "path": "mod/tools/mascot_view.py",
+    "sha256": "9a06e3d0e844e03013ee31bb64886ce80d67a0b19f53cf362cedd1c3a4d91f58"
+  },
+  {
+    "path": "mod/tools/md_machine.py",
+    "sha256": "8fbdcf8e72126dcf172060c985f37dd31d3afd75dc79a53f75e4ca5229c4ac02"
+  },
+  {
+    "path": "mod/tools/mode1p.py",
+    "sha256": "f81b35a66914f6813fc059cb598b4b7468a94e21d2f21ed916496349d23c5e97"
+  },
+  {
+    "path": "mod/tools/music_layout.py",
+    "sha256": "1a1fc904b64856ebcab634d173c49e9b9a44a55caa6636238145b58df75c4a09"
+  },
+  {
+    "path": "mod/tools/music_list.py",
+    "sha256": "36e5ad5bddcef9a7069cb6d01398ef78173f77c278e068316b7c4df9e67778a8"
+  },
+  {
+    "path": "mod/tools/pal0_usage.py",
+    "sha256": "d835d0ef896b782a85bf70fcc9c4dcee963adfc7dbb66e2d912b7dac9b3b70c5"
+  },
+  {
+    "path": "mod/tools/pal1_usage.py",
+    "sha256": "8229be5a13f2e012fe2ceead130216cf0240c335b4b5033a3896ad15b902d2e5"
+  },
+  {
+    "path": "mod/tools/pal2_users.py",
+    "sha256": "f06e57ff813cc49790aede39d273a9b6d1cb90476d009dc70dde660a22bdea54"
+  },
+  {
+    "path": "mod/tools/pal_buffer.py",
+    "sha256": "22ffa0229d27cd15c4208092875a1880c9c3e1348cfd94d899a670d7d5f0df47"
+  },
+  {
+    "path": "mod/tools/pal_compare.py",
+    "sha256": "6c43e425ad6af3eeed66ca793e61ff2810c43b291c970ba86154572c381798eb"
+  },
+  {
+    "path": "mod/tools/pal_debug.py",
+    "sha256": "c58f43158fd250cd41d7eb3a2ac1c1ebf00b49712015e587d96898baf5763e2c"
+  },
+  {
+    "path": "mod/tools/pal_watch.py",
+    "sha256": "27f23f69bbd01f5c1243b01757585de071a96b3f90ac3be3d254221aa6ab795b"
+  },
+  {
+    "path": "mod/tools/patch.py",
+    "sha256": "6bca9fb85060115afe9b98cbb2591733e6bb008a2620faee6b71169d803df0fa"
+  },
+  {
+    "path": "mod/tools/peek.py",
+    "sha256": "ecdf3f031de2cf92c439ed09df56602be558b4ae719b0597f762b10cfd83e37d"
+  },
+  {
+    "path": "mod/tools/piece.py",
+    "sha256": "f20db1c0d927345638d6f7f5225b6a2e7b0e67f620dad66f26c87d064dac8876"
+  },
+  {
+    "path": "mod/tools/play.py",
+    "sha256": "269351a0dca337d8f39e8e71ed6ae42d218cb584c5821ce544fa08f1c2ccfce5"
+  },
+  {
+    "path": "mod/tools/probe.py",
+    "sha256": "3278732be00655f7a349849b33a14ab6ca5a019c25ea8dc41eedc57d62fc7771"
+  },
+  {
+    "path": "mod/tools/probe_bgm.py",
+    "sha256": "943de5e5b0bfbc2a52a41673d08ebd9b7e2d07e55c2a62f762a1c386c4950fe3"
+  },
+  {
+    "path": "mod/tools/probe_ctl.py",
+    "sha256": "5cd942b393d526a0e68cb8a8a24150ec9ba149549a05dbf8518198441d10d2f5"
+  },
+  {
+    "path": "mod/tools/probe_cycle.py",
+    "sha256": "4dc383124f1d140bb981dcee735e40c704290f04e98f2d556692e547963d9b87"
+  },
+  {
+    "path": "mod/tools/probe_music.py",
+    "sha256": "f799e65adfac9a78e806507258303e8613039ec582c7fb9ab3c3d0c34fb175d6"
+  },
+  {
+    "path": "mod/tools/probe_z80ram.py",
+    "sha256": "aeaaa7d8642f09a6b6bc6509b9fa709aeb1d6755b8be962175171fe8daefea03"
+  },
+  {
+    "path": "mod/tools/regress.py",
+    "sha256": "cb8bec8763137ae435d7a50ebd86aca731aa2494584869d50dcb085f1c41ee90"
+  },
+  {
+    "path": "mod/tools/repro_crash.py",
+    "sha256": "ad0a6123506bf477585a083d4153586fc3133c6f4690e19d11c35178c83e4c3a"
+  },
+  {
+    "path": "mod/tools/repro_e6e8.py",
+    "sha256": "9fb3cb6a3eb42af9164fc5be37421956589b4b24a0c0bb7a0ea9045efb5821ac"
+  },
+  {
+    "path": "mod/tools/roundend.py",
+    "sha256": "763075802647c81f97e83720a064f28649065623bf55cd5ae3f339d42c12d44a"
+  },
+  {
+    "path": "mod/tools/roundflow.py",
+    "sha256": "be546dff00b36c0e62b0a196677802916b29d2927ba3675faa7d03d3fb4c5d0a"
+  },
+  {
+    "path": "mod/tools/run.py",
+    "sha256": "8fd535962e99a2a31ca0e86375b466fef6b988d57e0d40803db9466aba9897ce"
+  },
+  {
+    "path": "mod/tools/scan_buf.py",
+    "sha256": "9d966a1883a017dcc412916a123ae050817d84b9bac359c8f08b67f391194adb"
+  },
+  {
+    "path": "mod/tools/score_demo.py",
+    "sha256": "500f2d9c248a880157386ce7ac887c123828c7ad5f5c7709820859e996579852"
+  },
+  {
+    "path": "mod/tools/score_shapes.py",
+    "sha256": "176520fc60ebca02d6e9234c90037003e3178c8a86b72cf21d64473acc86881c"
+  },
+  {
+    "path": "mod/tools/seq_decode.py",
+    "sha256": "030b1088af5e46b852ae0bcbef730c4a8b178a5f598d95f406f1171a5fe91355"
+  },
+  {
+    "path": "mod/tools/session.py",
+    "sha256": "534b2ca5ab3286d4c10e78baf4dc1e57c178177517a6f7b3bdffd7a9ea92bfda"
+  },
+  {
+    "path": "mod/tools/setting_menu.py",
+    "sha256": "d6cf63c2ce2e75920678c9a7b1be59cb02f6bc56860cb68c317c5a20cda65202"
+  },
+  {
+    "path": "mod/tools/shot_setup.py",
+    "sha256": "57f9e3381aa55aa413953758e875d2a47880ce27f7363ae6c15386e80859c71d"
+  },
+  {
+    "path": "mod/tools/shot_soundtest.py",
+    "sha256": "01193de15f141c06b25a50e12d7d7e08af8a8466422f69faaa3235145c3c75ac"
+  },
+  {
+    "path": "mod/tools/shot_vs.py",
+    "sha256": "f26561a2eb24164f3cb9ee2c714428bd1be251aea64cf747a4487f935894ab28"
+  },
+  {
+    "path": "mod/tools/showfield.py",
+    "sha256": "167bf28a0c196e7b5a2b06aaa4784ec95ac489bf6f2930faedf08faaeb08bfe4"
+  },
+  {
+    "path": "mod/tools/soak.py",
+    "sha256": "437b8d1cc00cecf05ac35ba88ce9ab67e3cffb68d7732006b0b22227cc86ffc8"
+  },
+  {
+    "path": "mod/tools/sound_ids.py",
+    "sha256": "4b9a39064a0e12c2b627125c671dc5b9ff9cdab9ac9e79fde1c317905f163f70"
+  },
+  {
+    "path": "mod/tools/sprite_jewels.py",
+    "sha256": "8c4d0a69ad8ef439fc1af005bb15f90fc13e6ec867733765d7419fcb1a235272"
+  },
+  {
+    "path": "mod/tools/stages_all.py",
+    "sha256": "f25b469ef9ee3b06814370777601e0493f37a57add43e5d5cae638c71b8ad480"
+  },
+  {
+    "path": "mod/tools/stage_count.py",
+    "sha256": "5effa35e77f32be43bb972dca4f5c92d93fae75edcd07398d4d10e2e3b788529"
+  },
+  {
+    "path": "mod/tools/stage_keys.py",
+    "sha256": "ece97e90d17ba09529b4d44d7a1f459acf4d8b69d3e0b94aae2c326cd9e29d8e"
+  },
+  {
+    "path": "mod/tools/stage_probe.py",
+    "sha256": "0e6d5ffe784ee9a2aba50d1f5d1c72d87bb2fdcf6e2f463475ef1bea021dbb9f"
+  },
+  {
+    "path": "mod/tools/test_clear.py",
+    "sha256": "dcce174518840615d39dabd21c8ae49a45d89b616c54f974bc91c5be13f95e03"
+  },
+  {
+    "path": "mod/tools/test_match.py",
+    "sha256": "f7d52c2e3c57957272c3296bed61bb564965a57b601ac1cf18ac382a0b871685"
+  },
+  {
+    "path": "mod/tools/test_mode.py",
+    "sha256": "9ec7007d7e5434cd11a660f88638354f356219b56771c2f141bed0fbcfb32c4e"
+  },
+  {
+    "path": "mod/tools/test_noatk.py",
+    "sha256": "b939a2f38ab29f92d6a8ca1794c1b3355a0f2263758e38ef233af016c205b48c"
+  },
+  {
+    "path": "mod/tools/test_top.py",
+    "sha256": "cc4aa26775086232fc2ac87e2cbb851bc6becdfc4554a392338d7937d56b101b"
+  },
+  {
+    "path": "mod/tools/test_turnir.py",
+    "sha256": "1a5708f0763b8ae5f439896ee7663b6f4fbc374631f174885cd478157ac85b14"
+  },
+  {
+    "path": "mod/tools/test_turnir2.py",
+    "sha256": "745eb97af66523792ba4cf8d9ad1b6c0fe923f00f977cdb75f92fef591216c68"
+  },
+  {
+    "path": "mod/tools/tiles_view.py",
+    "sha256": "1f195636d8e220cfa4e5bd95c27420b24562b21d5f99ef82aeb986c1131761dd"
+  },
+  {
+    "path": "mod/tools/topout.py",
+    "sha256": "67e7fe2af90090b953abe4fa7b37e55fcd5a438aa2552831c6c91ddd7632049e"
+  },
+  {
+    "path": "mod/tools/trace.py",
+    "sha256": "17ff20af60418587c0a9ab8e814c40b31549ca1f4c505285d1a2decbf4d7b833"
+  },
+  {
+    "path": "mod/tools/trace2.py",
+    "sha256": "added0abe01bad00285be5e96ef13aac5d25e0f8e072731be86c4277e16008dd"
+  },
+  {
+    "path": "mod/tools/trackfields.py",
+    "sha256": "b77815e5ad93b33a9a10294630ee77b999497b8ff7b489163c8ffc39f679fb11"
+  },
+  {
+    "path": "mod/tools/tworounds.py",
+    "sha256": "15e5d39e80c282d44445ea1813770715ade0d06f34eddf52d8e21ece6b921a68"
+  },
+  {
+    "path": "mod/tools/unpacker.py",
+    "sha256": "94cdbdc224e8fb35095ffc7472f5eb6c1d9c7b8651c7c4cce5b6aef6604ab525"
+  },
+  {
+    "path": "mod/tools/vram_dump.py",
+    "sha256": "86a371010f9a579a36b7b8da78135b02930919d02f64d060e9df505bb647123e"
+  },
+  {
+    "path": "mod/tools/vram_free.py",
+    "sha256": "620b4b34ead159597719b5ffafbba22741accb732f35958c0288a30e99e543be"
+  },
+  {
+    "path": "mod/tools/watch.py",
+    "sha256": "228328166a5a0524dc5bc31085047b7d5a7e9c01b8541075e3f0198653a1afaf"
+  },
+  {
+    "path": "mod/tools/watch_turnir.py",
+    "sha256": "de049fd67e2e1e782dec4e75c85578c477ae6a29fcb501a9cdb171e8d64b8edd"
+  },
+  {
+    "path": "mod/tools/whoreads.py",
+    "sha256": "e2c6d7e0050405a02420ff65f3d016e512398696b696c9bb6c8084779746dcf4"
+  },
+  {
+    "path": "mod/tools/whowrites.py",
+    "sha256": "548577d4360f45d885d1393da44330fea8f3b18a5140472c121176a025c13106"
+  },
+  {
+    "path": "mod/tools/winassign.py",
+    "sha256": "76c038b29b03cade3623aac25b09a48f2d37fe7dc78099b647ef115c002d6546"
+  },
+  {
+    "path": "mod/tools/z80dis.py",
+    "sha256": "ec5ea77c6c480fe41d5787025449d4829f19384dfab76436e54dc2fa0cae1bb9"
+  }
+]
